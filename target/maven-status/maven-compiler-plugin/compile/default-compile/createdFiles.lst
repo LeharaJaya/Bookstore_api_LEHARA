@@ -1,0 +1,11 @@
+resource\AuthorResource.class
+Main.class
+model\Author.class
+resource\BookResource.class
+exception\AuthorNotFoundMapper.class
+exception\BookNotFoundMapper.class
+exception\AuthorNotFoundException.class
+model\Book.class
+exception\BookNotFoundException.class
+service\BookService.class
+service\AuthorService.class
